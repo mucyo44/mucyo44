@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lifeline (Honorine Mucyo)
+# 👋 Hi there, I'm Honorine Mucyo
 
 🎨 **Frontend Developer | React Enthusiast | UI/UX Explorer**
 
